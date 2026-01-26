@@ -1,0 +1,3 @@
+[submodule "amala_atlas"]
+	path = amala_atlas
+	url = https://github.com/AbdulmalikAlayande/amala-atlas-backend-api.git
