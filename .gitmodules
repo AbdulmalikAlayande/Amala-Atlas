@@ -1,3 +1,7 @@
-[submodule "amala_atlas"]
-	path = amala_atlas
+[submodule "amala-atlas-backend-api"]
+	path = amala-atlas-backend-api
 	url = https://github.com/AbdulmalikAlayande/amala-atlas-backend-api.git
+
+[submodule "amala-atlas-auto-discovery"]
+	path = amala-atlas-auto-discovery
+	url = https://github.com/AbdulmalikAlayande/amala-atlas-auto-discovery.git
